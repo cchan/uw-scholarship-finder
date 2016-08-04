@@ -1,0 +1,24 @@
+{
+  "name": "uw-scholarship-finder",
+  "version": "1.0.0",
+  "description": "Finds scholarships using the University of Waterloo API.",
+  "main": "uwsf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchan/uw-scholarship-finder.git"
+  },
+  "keywords": [
+    "waterloo",
+    "uwaterloo",
+    "scholarships"
+  ],
+  "author": "Clive Chan (cc@clive.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cchan/uw-scholarship-finder/issues"
+  },
+  "homepage": "https://github.com/cchan/uw-scholarship-finder#readme"
+}
